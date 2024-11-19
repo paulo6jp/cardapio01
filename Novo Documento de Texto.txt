@@ -1,0 +1,8 @@
+# quebra de lina
+<br>
+
+# dstaca um determindado texto
+<stromg> texto </stromg>
+
+# links 
+<a href = "link"> texto qual quer  </a>
